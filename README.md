@@ -2,5 +2,6 @@
 
 ## Cows can say it best!
 
-
-'npm run cowsay -- "woof" -f fat-cow'
+'''
+npm run cowsay -- "woof" -f fat-cow
+'''
