@@ -2,4 +2,4 @@
 
 ## Cows can say it best!
 
-'''npm run cowsay -- "text" -f fat-cow'''
+''' npm run cowsay -- "text" -f fat-cow '''
