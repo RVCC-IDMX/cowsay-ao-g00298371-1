@@ -2,16 +2,5 @@
 
 ## Cows can say it best!
 
-'''
- _____________
-< Uh... Meow? >
- -------------
-  \
-   \
 
-    A__A
-   ( OO )\_----__
-   (____)\      )\/\
-        ||      |
-        ||`---w||
-'''
+'npm run cowsay -- "woof" -f fat-cow'
