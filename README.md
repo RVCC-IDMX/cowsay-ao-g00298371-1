@@ -3,5 +3,15 @@
 ## Cows can say it best!
 
 '''
-npm run cowsay -- "woof" -f fat-cow
+ ____
+< yo >
+ ----
+  \
+   \
+
+    A__A
+   ( OO )\_----__
+   (____)\      )\/\
+        ||      |
+        ||`---w||
 '''
